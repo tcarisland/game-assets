@@ -1,0 +1,12 @@
+square: 5 cm
+margin: 5cm
+8 * 8 squares
+board width = 8 * 5 + (2 * 5) = 50
+board height = 8 * 5 + (2 * 5) = 50
+height = 2.5cm
+king = H: 8 Ø: 3.75
+queen = H: 7.5 Ø: 3.75
+pawn = H: 4 Ø: 2.5
+rook = H: 5 Ø: 3 (tower)
+knight = H: 5.5 Ø 3 (horse)
+bishop = H: 6 Ø: 3
