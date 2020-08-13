@@ -1,0 +1,7 @@
+{
+    length: "10s",
+    frameRate: "30fps",
+    numberOfCameras: 1,
+    numberOfCharacters: 1,
+    numberOfProps: 1-2
+}
